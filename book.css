@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", serif;
+}
+
+body{
+    background-color: #2f3542;
+    color: #ced6e0;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+    background-color: #ced6e0;
+    display: flex;
+    justify-content: center;
+}
+
+.container li{
+    margin-bottom: 20px;
+}
