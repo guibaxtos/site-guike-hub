@@ -15,6 +15,13 @@ header{
     text-align: center;
 }
 
+header a{
+    display: flex;
+    font-size: 18px;
+    text-decoration: none;
+    color: #ced6e0;
+}
+
 .container{
     background-color: #ced6e0;
     color: #2f3542;
@@ -26,6 +33,15 @@ header{
     width: 100%;
     margin: 0 auto;
     margin-bottom: 1em;
+}
+
+.container a{
+    text-decoration: none;
+}
+
+.container img{
+    display: block;
+    margin: 0 auto;
 }
 
 footer{
