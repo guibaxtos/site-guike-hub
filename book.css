@@ -25,3 +25,8 @@ header{
     margin-bottom: 20px;
     margin-top: 20px;
 }
+
+footer{
+    padding: 10px;
+    text-align: center;
+}

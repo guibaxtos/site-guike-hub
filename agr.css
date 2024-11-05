@@ -46,6 +46,7 @@ header{
 
 footer{
     padding: 10px;
+    text-align: center;
 }
 
 @media screen and (max-width: 767px){
