@@ -15,8 +15,11 @@ header{
     text-align: center;
 }
 
+header h1{
+    margin-bottom: 20px;
+}
+
 header a{
-    display: flex;
     font-size: 18px;
     text-decoration: none;
     color: #ced6e0;

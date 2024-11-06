@@ -24,6 +24,13 @@ header{
 .container li{
     margin-bottom: 20px;
     margin-top: 20px;
+    text-align: center;
+}
+
+.container img{
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
 }
 
 footer{
